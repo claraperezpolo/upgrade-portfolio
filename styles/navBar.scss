@@ -1,0 +1,21 @@
+nav {
+    background-color: #161616;
+    
+    height: 40px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center; 
+    position: fixed;
+    width: 100%;
+
+    a{
+        margin-right: 20px;
+        font-weight: bold;
+        color: #e3e4db;
+        text-decoration:none;
+    }
+    
+    
+    
+}
+

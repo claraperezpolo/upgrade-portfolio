@@ -1,0 +1,15 @@
+@import "./variables";
+
+@import "./navBar";
+@import "./container";
+
+body {
+  font-family: $primaryFont;
+  margin: 0;
+}
+
+a:hover{
+    color: #ab91a2;
+}
+
+

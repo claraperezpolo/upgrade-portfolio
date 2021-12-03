@@ -1,0 +1,28 @@
+.container {
+    max-width: 100vw;
+    min-height: 100vh;
+  }
+  
+  .containerPpal {
+    background-color: #ab91a2;
+    padding-top: 10%;
+  
+  }
+  
+  .ppal {
+    font-weight: 900;
+    font-size: 5rem;
+    border: #161616;
+    color: #e3e4db;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      a{
+          color: #161616;
+          text-decoration: none;
+      }
+      a:hover{
+          color: #161616;
+          text-decoration: underline;
+      }
+  }
