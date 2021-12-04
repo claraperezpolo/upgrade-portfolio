@@ -1,6 +1,7 @@
 @import "./variables";
 
 @import "./navBar";
+@import "./footer";
 @import "./container";
 
 body {
@@ -12,4 +13,12 @@ a:hover{
     color: #ab91a2;
 }
 
+h2{
+  font-size: 3rem;
+}
+
+.foto {
+  width: 50%;
+  height: auto;
+}
 

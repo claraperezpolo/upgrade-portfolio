@@ -1,12 +1,11 @@
 .container {
     max-width: 100vw;
     min-height: 100vh;
+    padding-top: 10%;
   }
   
   .containerPpal {
     background-color: #ab91a2;
-    padding-top: 10%;
-  
   }
   
   .ppal {
@@ -25,4 +24,15 @@
           color: #161616;
           text-decoration: underline;
       }
+  }
+
+  .bloque2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20%;
+  } 
+
+  #about {
+    background-color: #E3E4DB;
   }
